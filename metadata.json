@@ -1,0 +1,6 @@
+{
+  "name": "Geo Giant",
+  "description": "A modern, interactive educational geography quiz game for students to explore world geography, countries, capitals, flags, landmarks, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
